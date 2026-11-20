@@ -17,6 +17,6 @@ public class OpenApiConfig {
                 .info(new Info()
                         .title("Split Bill API")
                         .description("REST API for managing bill groups, expenses, and settlements.")
-                        .version("v0.0.1"));
+                        .version("v1.0.0"));
     }
 }
